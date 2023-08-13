@@ -1,4 +1,4 @@
-# eZaga mailer
+# eZaga webisite
 
 
 ## run the application
